@@ -1,7 +1,7 @@
 ---
-title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+title: Resume
+subtitle: ""
+metaDescription: Summary of work experience
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -10,26 +10,31 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Murphy's Magic
 
-**Senior Software Engineer** *(2019 - Current)*
+**UX/UI Designer** *(2021- Current)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Conducted site-wide UX audit to propose and execute back-end code refactoring to fix critical website performance issues
+* Created product website wireframes for developer handoff in remote teams
 
-#### Microsoft
+#### Vala Supply
 
-**Software Engineer** *(2014 - 2019)*
+**Freelance Product Designer** *(2020 - Current)*
 
-* Maintained legacy Internet Explorer for 5 long years
+* Coordinated the sale of keyboard components across international retailers
+* Designed KAM Soaring Skies using Blender and Adobe Illustrator
+* Conducted surveys to incorporate usability and design feedback for design improvement
+
+#### CA Office of State Publishing
+
+**Student Assistant - Graphic Design & Prepress** *(2017)*
+
+* Consulting on behalf of the state to perform ADA Accessibility services for government forms
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### California Polytechnic State University
 
-**PhD Astronomy** *(2014 - 2015)*
-
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+**BS Graphic Communication** *(2016 - 2021)*
