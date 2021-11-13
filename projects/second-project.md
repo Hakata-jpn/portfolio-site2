@@ -1,17 +1,18 @@
 ---
-title: Another NPM Package
-emoji: 💾
+title: UX Audit @ Murphy's Magic
+emoji: ✨
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: Audit performed to identify usability issues with company site and propose fixes
 tags:
-  - javascript
-  - node
+  - UX Design
+  - UX Audit
+  - Accesibility
 ---
 
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Analysis of the warehouse store murphysmagic.com for identification of UX problems, as well as potential user demographics for a site redesign and methods to fix website issues.
 
 ### Solution
 
