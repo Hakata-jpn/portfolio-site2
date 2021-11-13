@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Experience
 subtitle: ""
 metaDescription: Summary of work experience
 date: 2021-03-15T06:33:06.713Z
@@ -8,8 +8,6 @@ eleventyNavigation:
   order: 3
   key: Work
 ---
-### 👩‍💻 Experience:
-
 #### Murphy's Magic
 
 **UX/UI Designer** *(2021- Current)*
