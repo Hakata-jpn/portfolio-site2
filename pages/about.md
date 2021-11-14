@@ -8,16 +8,10 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Who is Ren, anyways?
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+I'm currently a UX/UI Designer freelancing as a product designer in my free time! My passions are in layout design and wireframes that put the users first. I mostly work within Figma and the Adobe Creative Cloud, which I've tutored designers on since 2015 and I'm always hungry to learn more! Though I love a good design program, my best friends are actually a pen and paper for sketching wireframes and user flows.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+When I'm not designing, you can find me in the mountains either skiing or rock climbing. If you catch me at home, I'm probably building a keyboard or playing some Dungeons and Dragons with friends.
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
-
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
-
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
-
-![Fern in Hand](/static/img/fern-in-hand.jpeg "Fern in Hand")
+![Fern in Hand](/static/img/ren_img.jpg "Fern in Hand")
