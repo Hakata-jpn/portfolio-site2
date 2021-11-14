@@ -6,7 +6,7 @@ date: 2019-01-01T00:00:00.000Z
 summary: Audit performed to identify usability issues with company site and propose fixes
 tags:
   - UX Design
-  - UX Audit
+  - User Research
   - Accesibility
 ---
 

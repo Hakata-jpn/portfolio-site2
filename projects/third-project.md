@@ -3,15 +3,17 @@ title: SnackIndex
 emoji: 🍰
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
+summary: Snack sharing mobile app prototype
 tags:
-  - javascript
-  - vue
-  - aws
+  - Figma
+  - Adobe CC
+  - UX Design
+  - UI Design
+  - App Design
 ---
 
 ### Skills Used
-  - Adobe Creative Suite (After Effects, Premiere Pro, Photoshop, Illustrator, InDesign)
+  - Adobe CC
   - Figma
   - Wireframing
   - App Prototyping
