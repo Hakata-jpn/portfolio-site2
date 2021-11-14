@@ -10,8 +10,8 @@ eleventyNavigation:
 ---
 #### Who is Ren, anyways?
 
-I'm currently a UX/UI Designer freelancing as a product designer in my free time! My passions are in layout design and wireframes that put the users first. I mostly work within Figma and the Adobe Creative Cloud, which I've tutored designers on since 2015 and I'm always hungry to learn more! Though I love a good design program, my best friends are actually a pen and paper for sketching wireframes and user flows.
+I'm a UX/UI and Freelance Product Designer based out of Sacramento, California. My passions are layout design and user research that put the user's needs first. I mostly work within Figma and the Adobe Creative Cloud, which I've tutored designers on since 2015 and I'm always hungry to learn more! Though I love a good design program, my best friends are actually a pen and paper for sketching wireframes and user flows.
 
 When I'm not designing, you can find me in the mountains either skiing or rock climbing. If you catch me at home, I'm probably building a keyboard or playing some Dungeons and Dragons with friends.
 
-![Fern in Hand](/static/img/ren_img.jpg "Fern in Hand")
+![picture of Ren](/static/img/ren_img.jpg "Picture of Ren")
