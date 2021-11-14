@@ -3,7 +3,7 @@ title: KAM Soaring Skies
 emoji: 🛫
 metaDescription: Project designing keycaps.
 date: 2021-10-28T00:00:00.000Z
-summary: Glossy keyboard parts for the mechanical keyboard hobbyists.
+summary: Glossy keyboard parts for mechanical keyboard hobbyists.
 tags:
   - Blender
   - User Research

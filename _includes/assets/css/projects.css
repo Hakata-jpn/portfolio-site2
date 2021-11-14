@@ -17,13 +17,16 @@
   flex-direction: column;
   justify-content: center;
   padding: 15px 30px;
-  border: 2px solid var(--color-border);
   border-radius: var(--border-radius);
-  background-color: var(--color-bg);
+  background-color: rgb(255, 251, 235);
+}
+
+.project-card p {
+  color: var(--color-bg);
 }
 
 .project-card__title {
-  color: var(--color-text);
+  color: var(--color-bg);
 }
 
 .project-card__tag {
