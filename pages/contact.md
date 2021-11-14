@@ -10,7 +10,7 @@ date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 5
+  order: 4
 ---
 For business opportunities, collaborations and more, please leave a message here. I check my emails daily but business days are the best time to contact me.
 

@@ -3,10 +3,10 @@ title: Resume
 subtitle: ""
 metaDescription: Summary of work experience
 date: 2021-03-15T06:33:06.713Z
-permalink: /work/index.html
+permalink: /resume/index.html
 eleventyNavigation:
-  order: 3
-  key: Work
+  order: 2
+  key: Resume
 ---
 ### 🔧 Skills:
 
