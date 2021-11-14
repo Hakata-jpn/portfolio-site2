@@ -12,6 +12,6 @@ eleventyNavigation:
   key: Contact
   order: 5
 ---
-For business opportunities, collaborations and more, please leave a message here. I check my emails daily but contacting me during a business day is the best time to contact me.
+For business opportunities, collaborations and more, please leave a message here. I check my emails daily but business days are the best time to contact me.
 
 If you have cool keyboards and cute pets, feel free to share. 👀
