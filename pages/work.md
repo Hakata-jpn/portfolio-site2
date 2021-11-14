@@ -14,7 +14,7 @@ eleventyNavigation:
 | --------------- | ----------------- | ------------ |
 | **Prototyping** | **User Flows**    | **HTML/CSS** |
 | **Wireframing** | **Accessibility** | **Git**      |
-| **UX Auditing** | **Email Marketing**|
+| **UX Auditing** | **Email Marketing**| **Adobe CC**|
 
 - - -
 
