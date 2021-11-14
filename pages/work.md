@@ -14,7 +14,7 @@ eleventyNavigation:
 | --------------- | ----------------- | ------------ |
 | **Prototyping** | **User Flows**    | **HTML/CSS** |
 | **Wireframing** | **Accessibility** | **Git**      |
-| **UX Auditing** | **Email Marketing**|
+| **UX Auditing** | **Email Marketing**| **Adobe CC**|
 
 - - -
 
@@ -34,14 +34,6 @@ eleventyNavigation:
 * Coordinated the sale of keyboard components across international retailers
 * Designed KAM Soaring Skies using Blender and Adobe Illustrator
 * Conducted surveys to incorporate usability and design feedback for design improvement
-
-#### Julian's Café | Bistro
-
-**Crew Lead** *(2017 - 2020)*
-
-* Trained over 10 crew members in espresso machine and general store operations
-* Contracted to train local baristas in the San Luis Obispo area
-* Revised training operations to improve closing accuracy and speed by 15 minutes
 
 #### CA Office of State Publishing
 
