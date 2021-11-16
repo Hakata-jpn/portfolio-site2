@@ -1,9 +1,9 @@
 ---
 title: Rydr
 emoji: 🚗
-metaDescription: Stock picker based off of famous economic theories put to the test.
+metaDescription: Ridesharing Application prototype for Camp Polyhacks 2020.
 date: 2020-03-02T00:00:00.000Z
-summary: Stock picker putting famous economic theories to the test.
+summary: Ridesharing Application prototype for Camp Polyhacks 2020.
 tags:
   - Hackathon
   - UI Design
@@ -15,9 +15,10 @@ tags:
 ADD IMAGE HERE
 
 ### Skills Used
-  - Adobe Illustrator/Photoshop
-  - HTML/CSS
-  - Git
+  - Wireframing
+  - Prototyping
+  - Adobe Illustrator
+  - Figma
 
 ### Overview
 
@@ -30,10 +31,9 @@ MonkeyMarket was a collaborative hackathon project that tested a famous economic
 
 ### What this project taught me
 
-- How to employ CSS and Grid for front end projects
-- Programming under crunch time
-- How to practice using Git for collaborative tasks
-- Monkeys would beat index funds by 4% in most test cases **(DISCLAIMER: this was tested in March 2020)**
+- How to present prototypes to an audience
+- How to teach people how to use Figma
+- Creating and user flows into a wireframe under a time crunch
 
 ### In Depth
 

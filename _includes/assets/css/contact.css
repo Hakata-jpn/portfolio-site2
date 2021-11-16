@@ -1,3 +1,4 @@
 .contact-form__submit {
   display: block;
+  background-color: var(--color-bg-accent);
 }
