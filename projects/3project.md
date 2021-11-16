@@ -23,6 +23,12 @@ tags:
 
 SnackIndex is a snack sharing application concept developed and researched as a solo senior project. The focus of the application was to develop a method for curious foodies to overcome obstacles to trying new foods from other parts of the world where they might not be comfortable with allergies/dietary restrictions or a language barrier.
 
+### What I learned
+- How to design mobile app prototypes from starting with sketches to finishing animations on the computer
+- UX Animations using Adobe After Effects
+- How to create reports for a project during the design process
+- Dealing with crunch over a long period of time and burnout management
+
 ### In Depth
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+This page is still a WIP, but if you would like to see [the prototype, click here!](https://www.figma.com/file/A6dFmsegL0kVUrVGeGxQm5/Snack-Index-Wireframe?node-id=0%3A1)
