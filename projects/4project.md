@@ -10,8 +10,6 @@ tags:
   - HTML/CSS
 ---
 
-ADD IMAGE HERE
-
 ### Skills Used
   - Adobe Illustrator/Photoshop
   - HTML/CSS

@@ -11,7 +11,7 @@ tags:
   - Keyboard Design
 ---
 
-ADD IMAGE HERE
+![Nemui Keyboard with KAM Soaring Skies Keycaps](/static/img/nemui-fixed-compressed.jpg)
 
 ### Skills Used
   - Adobe Illustrator/Photoshop
@@ -23,7 +23,7 @@ ADD IMAGE HERE
 
 KAM Soaring Skies is a year-long project designing mechanical keyboard parts for sale across international vendors in a Kickstarter-esque group buy format.
 
-### What this project taught me
+### What I learned
 
 - How to work with e-commerce vendors and consumers both locally and abroad
 - Designing products with ease of use for keyboard hobbyists with non-standard/international key layouts

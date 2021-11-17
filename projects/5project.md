@@ -12,8 +12,6 @@ tags:
   - Figma
 ---
 
-ADD IMAGE HERE
-
 ### Skills Used
   - Wireframing
   - Prototyping
