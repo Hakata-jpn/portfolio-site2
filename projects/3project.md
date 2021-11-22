@@ -45,7 +45,7 @@ The initial scope of this project saw the development of a full application via 
 After the change was made, I proceeded forward with the senior project alone. Having already started some of the background planning and research for this application in preparation for developing it in React Native, I was able to flesh the concept of SnackIndex to be more conceptually explored as prototype and not a full product. With that, I was able to develop more user flows and flesh out the user interactions with the app. You can really see how the design philosophy changed from developing each screen as we went along to fleshing out the whole system in its entirety once there was no worry about sharing design time with development efforts.
 
 The final user flow looks like this:
-![user flow for SnackIndex](/static/img/task-flow.png)
+![user flow for SnackIndex](/static/img/Flowchart-snackindex.png)
 
 you can see how that user flow is echoed in the updated medium fidelity wireframe:
 ![difference between wireframes](/static/img/wireframe-comparison.jpg)
