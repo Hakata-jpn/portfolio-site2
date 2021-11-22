@@ -31,7 +31,7 @@ Rydr was a ridesharing application that intended to centralize efforts to coordi
 
 ### In Depth
 
-This page is a WIP.
+This was a collaborative project in which our team created Rydr even after having our developers dropped out, and we were a designer short. One of our team members had no experience, and I focused a lot of my time on teaching them how to use Figma so we could get a prototype out in time for judging (they did great 😊).
 
 
  [Wireframe is here!](https://www.figma.com/file/PQekpaiv5iwmiJVxAFHiKu/Rush-Hour-Prototype?node-id=0%3A1)

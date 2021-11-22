@@ -29,11 +29,11 @@ MonkeyMarket was a collaborative hackathon project that tested a famous economic
 - How to employ CSS and Grid for front end projects
 - Programming under crunch time
 - How to practice using Git for collaborative tasks
-- Monkeys would beat index funds by 4% in most test cases **(DISCLAIMER: this was tested in March 2020)**
+- Monkeys would beat index funds by 4% in most test cases **(DISCLAIMER: this was tested in March 2020, stock market was really unstable then)**
 
 ### In Depth
 
-SLO Hacks 2020 was one of the last events I got to participate in before lockdown occurred, and was it an absolute blast. While we wanted to make a compelling fintech application, being a team of two made the issue of execution a rather difficult one. So MonkeyMarket was our opportunity to 
+SLO Hacks 2020 was one of the last events I got to participate in before lockdown occurred, and was it an absolute blast. While we wanted to make a compelling fintech application, being a team of two made the issue of execution a rather difficult one. So MonkeyMarket was our opportunity to have fun with the event while challenging ourselves with an old economics concept.
 
 
  [To see the repo, click here!](https://github.com/rpremi12/MonkeyMarket)
