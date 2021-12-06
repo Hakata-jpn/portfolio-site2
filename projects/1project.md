@@ -44,6 +44,6 @@ When I started, I didn't know how to render my keyboard project in 3D, which is 
 
 ![Keycap samples from Keyreative!](/static/img/samples-min.png)
 
-Eventually, I had found a vendor in Vala Supply. They are an Oregon-based keyboard store that was more than happy to help make my set a reality, but we needed global reach to get this sale done. I got into touch with several different vendors from around the world, as well as the intended manufacturer of KAM Soaring Skies: Keyreative/zFrontier. Through their help, we were able to organize the sale and get it running. Currently, my set is in Group Buy until November 30th. [If you are interested in purchasing the keycap set, click here!](https://vala.supply/products/kam-soaring-skies)
+Eventually, I had found a vendor in Vala Supply. They are an Oregon-based keyboard store that was more than happy to help make my set a reality, but we needed global reach to get this sale done. I got into touch with several different vendors from around the world, as well as the intended manufacturer of KAM Soaring Skies: Keyreative/zFrontier. Through their help, we were able to organize the sale and get it running. Currently, my set is in Group Buy until November 30th. [The project has finished its initial group buy period, but you can click here if you're interested in the product!](https://vala.supply/products/kam-soaring-skies)
 
 ![screenshot of store page for my keycaps at BaseKeys, a Japanese Vendor](/static/img/basekeys.jpg)
