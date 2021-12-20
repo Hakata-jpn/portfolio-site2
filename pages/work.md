@@ -12,8 +12,8 @@ eleventyNavigation:
 
 |                 |                     |                      |
 | --------------- | ------------------- | -------------------- |
-| **Prototyping** | **User Flows**      | **HTML/CSS/ReactJS** |
-| **Wireframing** | **Accessibility**   | **Git**              |
+| **Prototyping** | **User Flows**      | **HTML/Tailwind CSS/ReactJS** |
+| **Wireframing** | **Google Analytics**   | **Git**              |
 | **UX Auditing** | **Email Marketing** | **Adobe CC**         |
 
 - - -
@@ -22,16 +22,17 @@ eleventyNavigation:
 
 #### Murphy's Magic
 
-**UX/UI Designer** *(2021- Current)*
+**UX/UI Designer** *(July 2021- Current)*
 
 * Conducted site-wide UX audit to propose and execute back-end code refactoring to fix critical website performance issues
 * Created product website wireframes for developer handoff in remote teams
+* Project head for site-wide redesign, currently creating site map and coordinating findings with stakeholders
 
 #### Vala Supply
 
-**Freelance Product Designer** *(2020 - Current)*
+**Freelance Product Designer** *(December 2020 - Current)*
 
-* Coordinated the sale of keyboard components across international retailers
+* Coordinated the sale of keyboard components across international retailers, sold at 186% Minimum Order Quantity
 * Designed KAM Soaring Skies using Blender and Adobe Illustrator
 * Conducted surveys to incorporate usability and design feedback for design improvement
 
