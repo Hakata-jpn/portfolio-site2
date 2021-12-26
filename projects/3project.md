@@ -35,7 +35,7 @@ SnackIndex is a snack sharing application concept researched, developed, and pro
 
 ### In Depth
 
-[To see the prototype, click here!](https://www.figma.com/file/A6dFmsegL0kVUrVGeGxQm5/Snack-Index-Wireframe?node-id=0%3A1)
+[To see the Figma prototype, click here!](https://www.figma.com/file/A6dFmsegL0kVUrVGeGxQm5/Snack-Index-Wireframe?node-id=0%3A1)
 [To see the process in greater detail, click here for the process book.](https://www.dropbox.com/s/bicw5ht5xsr1rzq/Ren%20Blanding%20Book%20Combined.pdf?dl=0)
 
 The initial scope of this project saw the development of a full application via React Native, though due to scheduling conflicts we disbanded the team and proceeded as a solo design venture. [There isn't a whole lot left of that project but you can see the repo here](https://github.com/rpremi12/SnackIndex/tree/main), and a screenshot of the end result below.
