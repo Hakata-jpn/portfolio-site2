@@ -13,6 +13,8 @@ tags:
   - Front End Dev
 ---
 
+![SnackIndex High Fidelity Screens](/static/img/snackindex-header.jpg)
+
 ### Skills Used
   - Adobe CC
   - Figma
@@ -20,8 +22,6 @@ tags:
   - App Prototyping
   - User Flows
   - React Native
-
-![SnackIndex High Fidelity Screens](/static/img/snackindex-header.jpg)
 
 ### Overview
 
