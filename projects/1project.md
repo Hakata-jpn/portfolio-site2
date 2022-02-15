@@ -32,7 +32,7 @@ KAM Soaring Skies is a year-long project designing mechanical keyboard parts for
 
 ### In Depth
 
-Last December after the developement of [SnackIndex](/projects/snackindex/), I was coming down from having my full schedule disappear from me overnight, and I'd always wanted to make a design for one of my favorite hobbies: the custom mechanical keyboard community. Initially this set required a lot of drafting to identify the style and type of keycaps I wanted, and there were a lot of drafts and revisions:
+Last December after the development of [SnackIndex](/projects/snackindex/), I was coming down from having my full schedule disappear from me overnight, and I'd always wanted to make a design for one of my favorite hobbies: the custom mechanical keyboard community. Initially this set required a lot of drafting to identify the style and type of keycaps I wanted, and there were a lot of drafts and revisions:
 
 ![image of initial KAM Soaring Skies keycaps, in different arrangements](/static/img/keyset-screenshot.jpg)
 
@@ -54,7 +54,7 @@ The community's feedback was also critical in this project, and I employed 2 rou
 [To see the survey in detail, click this link:](https://forms.gle/wfsJqZvXeWRQCYvx6)
 
 #### Findings:
-- While not many users showed initial interest, those who did expressed great support. I received 66 reponses, though more popular sets tend to get around 100+.
+- While not many users showed initial interest, those who did expressed great support. I received 66 responses, though more popular sets tend to get around 100+.
 - My kitting had a lot of initial errors, and users wanted more sets. This sparked a change from 13 to 21 total kits available for purchase.
 - The suggestion from the community to make this keycap set implement glossy keycaps ended up being the strongest selling point for the keycaps when they went on sale. This change alone was the largest contributor to the success in selling my keycap set.
 

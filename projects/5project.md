@@ -1,37 +1,39 @@
 ---
-title: Rydr
-emoji: 🚗
-metaDescription: Ridesharing Application prototype for Camp Polyhacks 2020.
+title: MonkeyMarket
+emoji: 🍌
+metaDescription: Stock picker based off of famous economic theories put to the test.
 date: 2020-03-02T00:00:00.000Z
-summary: Ridesharing Application prototype for Camp Polyhacks 2020.
+summary: Stock picker putting famous economic theories to the test.
 tags:
   - Hackathon
-  - UI Design
-  - UX Design
-  - Prototyping
-  - Figma
+  - Front End
+  - HTML/CSS
 ---
 
 ### Skills Used
-  - Wireframing
-  - Prototyping
-  - Adobe Illustrator
-  - Figma
+  - Adobe Illustrator/Photoshop
+  - HTML/CSS
+  - Git
 
 ### Overview
 
-Rydr was a ridesharing application that intended to centralize efforts to coordinate ride sharing within Cal Poly SLO, with potential to expand further beyond the local area.
+MonkeyMarket was a collaborative hackathon project that tested a famous economics concept stated by Burton Malkiel:
+
+>*"A blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts."*
+>
+>-Burton Malkiel
 
 
-### What I learned
+### What this project taught me
 
-- How to present prototypes to an audience
-- How to teach people to use Figma
-- Creating and user flows into a wireframe under a time crunch
+- How to employ CSS and Grid for front end projects
+- Programming under crunch time
+- How to practice using Git for collaborative tasks
+- Monkeys would beat index funds by 4% in most test cases **(DISCLAIMER: this was tested in March 2020, stock market was really unstable then)**
 
 ### In Depth
 
-This was a collaborative project in which our team created Rydr even after having our developers dropped out, and we were a designer short. One of our team members had no experience, and I focused a lot of my time on teaching them how to use Figma so we could get a prototype out in time for judging (they did great 😊).
+SLO Hacks 2020 was one of the last events I got to participate in before lockdown occurred, and was it an absolute blast. While we wanted to make a compelling fintech application, being a team of two made the issue of execution a rather difficult one. So MonkeyMarket was our opportunity to have fun with the event while challenging ourselves with an old economics concept.
 
 
- [Wireframe is here!](https://www.figma.com/file/PQekpaiv5iwmiJVxAFHiKu/Rush-Hour-Prototype?node-id=0%3A1)
+ [To see the repo, click here!](https://github.com/rpremi12/MonkeyMarket)
