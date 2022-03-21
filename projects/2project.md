@@ -7,7 +7,7 @@ summary: Audit performed to identify usability issues with company site and prop
 tags:
   - UX Design
   - User Research
-  - Accesibility
+  - Accessibility
 ---
 
 ### Skills Used
