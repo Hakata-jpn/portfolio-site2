@@ -18,10 +18,11 @@
 }
 
 .gradient-text {
-  background: linear-gradient(133deg,#4254d6,#1bb9ac 41.07%,#7fd2a5 76.05%);
+  background: linear-gradient(90deg,#4254d6,#1bb9ac 41.07%,#7fd2a5 76.05%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
+  padding-bottom: .25em;
 }
 
 .btn {
