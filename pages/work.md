@@ -14,20 +14,11 @@ eleventyNavigation:
 | --------------- | ------------------- | -------------------- |
 | **Prototyping** | **User Flows**      | **HTML/Tailwind CSS/ReactJS** |
 | **Wireframing** | **Google Analytics**   | **Git**              |
-| **UX Auditing** | **Email Marketing** | **Adobe CC**         |
+| **UX Auditing** | **Email Marketing** | **Adobe Creative Cloud**         |
 
 - - -
 
 ### 👷‍♂️ Experience:
-
-#### Murphy's Magic
-
-**UX/UI Designer** *(July 2021- Current)*
-
-* Increase average consumer sales by 50% on promoted products from redesigned emails and content strategy using over 20 A/B tests
-* Identified cause of 96% decrease in page views over time
-* Proposed and implemented strategy plan to increase website performance by 2 times the current speed
-* Led website redesign and digital strategy for the company, revised Google Analytics implementation on the company website
 
 #### Vala Supply
 
@@ -38,6 +29,15 @@ eleventyNavigation:
 * Led social media marketing strategy for the sale of keyboard sets
 * Generated user surveys to improve keycap kit compatibility for all keyboards used by hobbyists
 * Rendered keycaps for product promotion using Blender
+
+#### Murphy's Magic
+
+**UX/UI Designer** *(July 2021- March 2022)*
+
+* Increase average consumer sales by 50% on promoted products from redesigned emails and content strategy using over 20 A/B tests
+* Identified cause of 96% decrease in page views over time
+* Proposed and implemented strategy plan to increase website performance by 2 times the current speed
+* Led website redesign and digital strategy for the company, revised Google Analytics implementation on the company website
 
 - - -
 
