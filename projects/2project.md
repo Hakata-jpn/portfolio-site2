@@ -8,6 +8,7 @@ tags:
   - UX Design
   - User Research
   - Accessibility
+  - Front End Dev
 ---
 
 ### Skills Used

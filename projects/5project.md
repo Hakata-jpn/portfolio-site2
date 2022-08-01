@@ -6,7 +6,7 @@ date: 2020-03-02T00:00:00.000Z
 summary: Stock picker putting famous economic theories to the test.
 tags:
   - Hackathon
-  - Front End
+  - Front End Dev
   - HTML/CSS
 ---
 
