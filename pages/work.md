@@ -10,11 +10,11 @@ eleventyNavigation:
 ---
 ### 🔧 Skills:
 
-|                 |                     |                      |
-| --------------- | ------------------- | -------------------- |
-| **Prototyping** | **User Flows**      | **HTML/Tailwind CSS/ReactJS** |
-| **Wireframing** | **Google Analytics**   | **Git**              |
-| **UX Auditing** | **Email Marketing** | **Adobe Creative Cloud**         |
+|                 |                      |                          |
+| --------------- | -------------------- | ------------------------ |
+| **Prototyping** | **User Flows**       | **HTML/CSS/Javascript**  |
+| **Wireframing** | **Google Analytics** | **Git**                  |
+| **ReactJS**     | **User Interviews**  | **Adobe Creative Cloud** |
 
 - - -
 
