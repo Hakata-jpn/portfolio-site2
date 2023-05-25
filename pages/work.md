@@ -15,14 +15,22 @@ eleventyNavigation:
 | **Prototyping** | **User Flows**       | **HTML/CSS/Javascript**  |
 | **Wireframing** | **Google Analytics** | **Git**                  |
 | **ReactJS**     | **User Interviews**  | **Adobe Creative Cloud** |
-
+| **Figma**       | **Axure RP**         | **JIRA**                 |
 - - -
 
 ### 👷‍♂️ Experience:
 
+#### Adage Technologies
+
+**UX/UI Designer** *(October 2022 - May 2023)*
+
+* Designed component libraries for $30m+ non-profit using Figma
+* Redesigned large wholesale client's website based on UX Research methodology
+* Mapped the UX Architecture of educational non-profit, designed educational portal wireframes
+
 #### Vala Supply
 
-**Freelance Product Designer** *(December 2020 - Current)*
+**Product Designer** *(December 2020 - April 2023)*
 
 * $68,000 of revenue in one month through the sale of keyboard parts
 * Sold keyboard products through a network of 9 international e-commerce retailers

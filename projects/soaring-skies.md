@@ -2,7 +2,7 @@
 title: KAM Soaring Skies
 emoji: 🛫
 metaDescription: Project designing keycaps.
-date: 2021-10-28T00:00:00.000Z
+date: 2022-12-28T00:00:00.000Z
 summary: Glossy keyboard parts for mechanical keyboard hobbyists.
 tags:
   - Blender
@@ -11,7 +11,7 @@ tags:
   - Keyboard Design
 ---
 
-![Prototype keycap samples for KAM Soaring Skies on a keyboard](/static/img/samples-min.jpg)
+![KAM Soaring Skies on two keyboards](/static/img/soaring-skies-real.jpeg)
 
 ### Skills Used
   - Adobe Illustrator/Photoshop
@@ -21,7 +21,7 @@ tags:
 
 ### Overview
 
-KAM Soaring Skies is a multi-year project designing mechanical keyboard parts for sale across international vendors in a Kickstarter-esque group buy format. This site was coded with the same keyboard as seen above!
+KAM Soaring Skies is a multi-year project designing mechanical keyboard parts for sale across international vendors in a Kickstarter-esque group buy format. This site was coded with the same keyboard as seen above! [Gallery of customer examples](https://imgur.com/a/c52mnXK)
 
 ### What I learned
 
@@ -32,11 +32,11 @@ KAM Soaring Skies is a multi-year project designing mechanical keyboard parts fo
 
 ### In Depth
 
-Last December after the development of [SnackIndex](/projects/snackindex/), I was coming down from having my full schedule disappear from me overnight, and I'd always wanted to make a design for one of my favorite hobbies: the custom mechanical keyboard community. Initially this set required a lot of drafting to identify the style and type of keycaps I wanted, and there were a lot of drafts and revisions:
+I'd always wanted to make a design for one of my favorite hobbies: the custom mechanical keyboard community. Through lots of drafts and revisions, I began to develop a aviation-inspired design concept which would take over 2 years to see to completion. The keyboard caps had all of the characters/symbols/novelty keys aligned by hand, and were manufactured with a glossy coat to make the colors and feel stand out from the most common options within the mechanical keyboards hobby.
 
 ![image of initial KAM Soaring Skies keycaps, in different arrangements](/static/img/keyset-screenshot.jpg)
 
-The community's feedback was also critical in this project, and I employed 2 rounds of user surveys to get feedback and ensure that my project was kitted for as many users as possible. When creating the Interest Check, my user survey had a few goals:
+The community's feedback was also critical in this project, and I employed 2 rounds of user surveys to get feedback on the configuration of the product and ensure that my project was kitted for as many users as possible. When creating the Interest Check, my user survey had a few goals:
 
 #### User Survey Goals:
  - Are all of the keycap kits properly kitted for users? Are my Japanese keycap kits properly fitted for Japanese hobbyists?
@@ -60,9 +60,10 @@ The community's feedback was also critical in this project, and I employed 2 rou
 
 ![screenshot of user survey for keycap set](/static/img/user-survey.jpg)
 
-When I started, I didn't know how to render my keyboard project in 3D, which is a necessity in the hobby. Commissioning a 3D artist was not in my budget at the time, so I resolved to learn the process from start to finish in the span of a week. The renders were possible thanks to a community tool for Blender, and [renders can be seen here](https://imgur.com/a/TjAP57r)as well as the image below!. But even better than the renders are the physical prototypes. The latest samples from the manufacturer can be seen at the top of this page, with most of the colors confirmed for production. 
+When I started, I didn't know how to render my keyboard project in 3D, which is a necessity in the hobby. Commissioning a 3D artist was not in my budget at the time, so I resolved to learn the process from start to finish in the span of a week. The renders were possible thanks to a community tool for Blender. [All renders can be seen here](https://imgur.com/a/TjAP57r) and the picture below was a render used to advertise the product.
 ![Nemui Keyboard with KAM Soaring Skies Keycaps](/static/img/nemui-fixed-compressed.jpg)
 
-Eventually, I had found a vendor in Vala Supply. They are an Oregon-based keyboard retailer that was more than happy to help make my set a reality, but we needed global reach to get this sale done. I got into touch with several different vendors from around the world, as well as the intended manufacturer of KAM Soaring Skies: Keyreative/zFrontier. Through their help, we were able to organize the sale and get it running. The group buy ended in November of 2021 and reached ~$70,000 in sales in one month, with an estimated arrival of December of 2022 for end consumers who purchased the set! [For the KAM Soaring Skies store page, click here.](https://vala.supply/products/kam-soaring-skies)
+After reaching out to various vendors in the community, I had found a vendor in Vala Supply. They are an Oregon-based keyboard retailer that was more than happy to help make my set a reality, but we needed global reach to get this sale done. I got in touch with 7 different vendors from around the world, as well as the intended manufacturer of KAM Soaring Skies: Keyreative. Through their help, we were able to organize the sale and get it running. The group buy ended in November of 2021 and reached ~$70,000 in sales in one month, with an arrival time of April 2023 for end consumers who purchased the set! [For the KAM Soaring Skies store page, click here.](https://vala.supply/products/kam-soaring-skies)
 
 ![screenshot of store page for my keycaps at BaseKeys, a Japanese Vendor](/static/img/basekeys.jpg)
+*Store page for Basekeys, the Japanese vendor that sold KAM Soaring Skies*
