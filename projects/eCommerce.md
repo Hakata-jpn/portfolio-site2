@@ -2,7 +2,7 @@
 title: eCommerce Design Overhaul
 emoji: 🏬
 metaDescription: Overhaul of Wholesale eCommerce platform
-date: 2023-02-28T00:00:00.000Z
+date: 2023-04-28T00:00:00.000Z
 summary: Design updates made to a client wholesale site based on a prior UX Assessment
 tags:
   - Figma
@@ -30,7 +30,7 @@ tags:
 
 Used a previously developed UX Assessment from a lead UX Designer to create new wireframes and update the site experience for users of a $100m+ wholesale eCommerce site.
 
-**[⚠️ WARNING: This project is not publicly available but implementation is under way. Limited details can be confirmed by Brian Hill at Adage Technologies]**
+**[⚠️ WARNING: This project is not publicly available but implementation is under way. Details have been changed to keep the client and identifying details confidential. Limited details can be confirmed by Brian Hill at Adage Technologies]**
 
 ### What I learned
 
