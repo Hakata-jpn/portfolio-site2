@@ -3,7 +3,7 @@ title: eCommerce Design Overhaul
 emoji: 🏬
 metaDescription: Overhaul of Wholesale eCommerce platform
 date: 2023-04-28T00:00:00.000Z
-summary: Design updates made to a client wholesale site based on a prior UX Assessment
+summary: UI Refresh to a >$200m Wholesale Site based on UX Assessment 
 tags:
   - Figma
   - Prototyping
