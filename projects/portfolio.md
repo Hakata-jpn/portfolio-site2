@@ -25,13 +25,15 @@ tags:
 
 ### Overview
 
-Overhaul current portfolio to a more inviting aesthetic using skills learned from previous jobs. Wireframes were completed but implementation is in-progress, with the intention of developing this as a solo-project
+Overhaul current portfolio to a more inviting aesthetic using skills learned from previous jobs. Wireframes were completed but implementation is in-progress, with the intention of developing this as a solo-project.
+
+Follow the final site progress here: [Netlify Demo Deployment](https://chipper-cranachan-7c0631.netlify.app/)
 
 ### What I learned
 
 - The direct link between my design work in Figma and web dev
 - Application of CSS learned via Udemy
-- How to deploy a site and use markdown to generate new articles
+- How to deploy a site using a web framework from start to finish
 - How to evaluate a site and overhaul its visuals + user experience
 
 ### In Depth
@@ -57,6 +59,6 @@ With all of these factors in consideration, a new design was in order with the g
 
 #### Development
 
-Currently, this site is slated to be developed in NextJS but that is still a WIP. More updates are coming soon.
+Currently, this site is being developed in Jekyll, Bootstrap, and Sass. Initial deployment to Github and templating is complete, currently creating the homepage and moving to project page soon.
 
 ![JS, HTML, and CSS Logo](/static/img/web-dev-logos.svg)
